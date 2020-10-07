@@ -14,3 +14,5 @@ nuevo hotfix
 added social media auth module - fixed
 
 fix master bug
+
+added contact form
