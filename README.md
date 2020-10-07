@@ -11,4 +11,4 @@ more content
 nuevo cambio
 nuevo hotfix
 
-added social media auth module
+added social media auth module - fixed
